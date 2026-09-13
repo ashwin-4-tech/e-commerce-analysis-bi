@@ -23,26 +23,6 @@ By bridging raw transaction logs with executive-level financial reporting, this 
 
 ---
 
-## 💡 Key Business & Financial Insights
-
-### 1. Payment Channel Profitability & Leakage
-* **Credit Card Dominance:** Credit Card transactions served as the single largest net profit driver, contributing **~$12K+** in total net profitability.
-* **UPI Profit Compression:** While alternative payment modes like Cash on Delivery (COD) (~$3.5K) and EMI (~$2K) remained profitable, **UPI transactions resulted in net negative profit (~ -$0.3K)**. This points to potential underlying payment processing overheads, micro-transaction fee structures, or elevated return rates associated with instant checkout modes.
-
-### 2. Monthly P/L Waterfall & Seasonality (Total Net Profit: $16.4K)
-* **Peak Profit Months:** August (**+$4.0K**) and October (**+$2.7K**) served as the primary growth engines for annual cumulative net profit ($16.4K).
-* **Seasonal Margin Contraction:** Isolated two key deficit months—May (**-$0.3K**) and November (**-$0.9K**)—where operational costs/discounts offset gross earnings, signaling a need for promotional restructuring during mid-year and post-holiday lulls.
-
-### 3. Sales vs. Profit Realization Disconnect
-* **Quarterly Divergence:** High sales volume did not linearly convert to high profit. 
-  * **Q1** generated **$60K in Sales** but yielded only **$3.9K in Profit**.
-  * **Q3** generated **$47K in Sales** yet delivered the highest quarterly profit at **$7.2K** (driven by favorable product mix and reduced discount margins).
-
-### 4. Product Category Dynamics
-* Shifted category mix analysis across **Clothing**, **Electronics**, and **Furniture** revealed strong quarter-over-quarter volume transfers, highlighting seasonal shifts in consumer purchasing behavior across product lines.
-
----
-
 ## 🛠️ Data Architecture & Tech Stack
 
 * **Business Intelligence:** Power BI Desktop (Data Modeling, DAX Engine, Visualizations)
