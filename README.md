@@ -16,12 +16,6 @@ By bridging raw transaction logs with executive-level financial reporting, this 
 
 ---
 
-## 📸 Executive Dashboard Overview
-
-[E-Commerce Profit Analytics Dashboard](E-Commerce Dashbaord.png)
-
----
-
 ## 🛠️ Data Architecture & Tech Stack
 
 * **Business Intelligence:** Power BI Desktop (Data Modeling, DAX Engine, Visualizations)
