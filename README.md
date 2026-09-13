@@ -1,4 +1,4 @@
-# 📊 E-Commerce Profit Leakage & Payment Channel Analytics
+# 📊 E-Commerce Profit & Payment Channel Analytics
 
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 [![DAX](https://img.shields.io/badge/DAX-Data_Analysis_Expressions-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
