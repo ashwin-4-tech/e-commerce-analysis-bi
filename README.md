@@ -18,8 +18,7 @@ By bridging raw transaction logs with executive-level financial reporting, this 
 
 ## 📸 Executive Dashboard Overview
 
-![E-Commerce Profit Analytics Dashboard](E-Commerce Dashbaord.png)
-*(Note: Replace `dashboard_preview.png` with the exact image filename uploaded to your GitHub repository)*
+[E-Commerce Profit Analytics Dashboard](E-Commerce Dashbaord.png)
 
 ---
 
